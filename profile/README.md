@@ -4,7 +4,7 @@
 
 Let us know what you think of the code and share your input. We'd love to hear from you!
 
-# [Tech Jobs at ING](https://ing.jobs)
+# [Tech Jobs at ING](https://www.ing.jobs/global/careers/expertise/tech.htm)
 
 # [Open Banking](https://developer.ing.com/openbanking/home)
 
