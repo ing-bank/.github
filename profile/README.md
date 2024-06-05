@@ -9,7 +9,7 @@ Let us know what you think of the code and share your input. We'd love to hear f
 # [Open Banking](https://developer.ing.com/openbanking/home)
 
 [The ING Open Banking CLI](https://github.com/ing-bank/ing-open-banking-cli) is implemented with scripts.
-These scripts can be ysed to test your connection to the ING sandbox for Open Banking APIs (Premium and PSD2).
+These scripts can be used to test your connection to the ING sandbox for Open Banking APIs (Premium and PSD2).
 It is your starting point to create wonderful apps using ING APIs!
 
 [The ING Open Banking SDK](https://github.com/ing-bank/ing-open-banking-sdk)
