@@ -1,4 +1,4 @@
-![Open Source at ING Bank](https://github.com/ing-bank/.github/blob/main/images/open-at-ing.png)
+![Open Source at ING Bank](https://github.com/ing-bank/.github/blob/main/images/bestseller-in-code.png)
 
 ## Let's collaborate
 
